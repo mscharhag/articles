@@ -30,7 +30,7 @@ The MySQL table is called "passenger" and consists of 4 fields:
 
 You can reproduce this table using the following SQL code:
 
-'''sql 
+```sql
 
 CREATE DATABASE `flights`;
 
@@ -44,5 +44,5 @@ CREATE TABLE `passenger` (
 
 INSERT INTO `passenger` VALUES (1,'Paul Müller','Berlin, Germany','New York, USA'),(2,'Léo Martin','Paris, France','Barcelona, Spain'),(3,'John Doe','Boston, USA','Chicago, USA'),(4,'Mario Rossi','Rome, Italy','Liverpool, UK'),(5,'Agata Wòjcik','Warsaw, Poland','Cracovia, Poland');
 
-'''
+```
 
