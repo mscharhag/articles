@@ -1,3 +1,8 @@
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+title | categories | date | author
+--- | --- | --- | ---
+Working with JDBC and MySQL | java | 2021-06-16 23:56:14 +1000 | Edoardo Fiorini  
+
+The Java Database Connectivity (JDBC) is the standard way of accessing databases in Java. 
+This tutorial covers how to instantiate a connection, perform queries and interact with a simulated data collection. The software used here is MySQL, an open source relational database.
+
+#Introduction
