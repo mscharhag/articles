@@ -8,8 +8,10 @@ This tutorial covers how to instantiate a connection, perform queries, interact 
 
 ###### Introducing JDBC
 
-The JDBC Application Programming Interface is composed by 5 main interfaces:
+The JDBC Application Programming Interface is composed by 4 main interfaces:
 
-+ fuck
++ Driver: Sets up a connection to the database
++ Connection: Sends query to the database
++ PreparedStatement: Executes SQL of a query
++ ResultSet: Provides results of a query
 
-+ cuky
