@@ -8,7 +8,7 @@ This tutorial covers how to instantiate a connection, perform queries, interact 
 
 ###### Introducing JDBC
 
-The JDBC Application Programming Interface is composed by 4 main interfaces:
+The JDBC Application Programming Interface (API) is composed by 4 main interfaces:
 
 + Driver: Sets up a connection to the database
 + Connection: Sends query to the database
