@@ -10,6 +10,6 @@ This tutorial covers how to instantiate a connection, perform queries, interact 
 
 The JDBC Application Programming Interface is composed by 5 main interfaces:
 
-⋅⋅* fuck
++ fuck
 
-⋅⋅* cuky
++ cuky
