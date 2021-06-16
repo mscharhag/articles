@@ -6,4 +6,10 @@ The Java Database Connectivity (JDBC) is the standard way of accessing databases
 
 This tutorial covers how to instantiate a connection, perform queries, interact with a simulated data collection. The software used here is MySQL, an open source relational database.
 
-## Introduction
+###### Introducing JDBC
+
+The JDBC Application Programming Interface is composed by 5 main interfaces:
+
+⋅⋅* fuck
+
+⋅⋅* cuky
