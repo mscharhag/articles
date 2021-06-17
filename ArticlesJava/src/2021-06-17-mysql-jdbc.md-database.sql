@@ -1,3 +1,5 @@
+-- use this code to reproduce the example.
+
 DROP TABLE IF EXISTS `passenger`;
 
 CREATE TABLE `passenger` (
