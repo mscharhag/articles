@@ -122,12 +122,15 @@ This code defines a query to select all data from the table, executes it, loops 
 The last step is using JDBC to insert information to the table. To protect our application from SQL Injection attacks we are going to use a PreparedStatement to accomplish our needs. This code will perform an insert query.
 
 ```java
-		PreparedStatement preparedStatement = connection.prepareStatement(inserQuery);
+		String insertQuery = "INSERT INTO passenger (passengername, passengerorigin, passengerdestination) VALUES  (?, ?, ?)";
+
+		PreparedStatement preparedStatement = connection.prepareStatement(insertQuery);
 		preparedStatement.setString(1, "Martina Garcià");
 		preparedStatement.setString(2, "Valencia, Spain");
 		preparedStatement.setString(3, "Lyon, France"); 
-
+		
 		preparedStatement.execute();
+
 ```
 
 We have successfully added a new member to the list of passengers.
