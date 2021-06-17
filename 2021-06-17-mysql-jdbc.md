@@ -23,7 +23,7 @@ The code of this application is entirely available on GitHub [here](https://gith
 
 ## Initial Setup And Example
 
-For this tutorial we are going to make use a practical example: the monitoring of entrances of an airplane.
+For this tutorial we are going to make use of a practical example: the monitoring of entrances of an airplane.
 
 The MySQL table is called "passenger", inside the database "flights", and consists of 4 fields:
 
@@ -49,7 +49,7 @@ INSERT INTO `passenger` VALUES (1,'Paul Müller','Berlin, Germany','New York, US
 
 ```
 
-Please note that to use MySQL in your project your need to add to the build path the MySQL connector JAR, downloadble visiting [This Link](https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar).
+Please note that to use MySQL in your project you need to add to the build path the MySQL connector JAR, downloadable by visiting [This Link](https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar).
 
 ###### Interacting With Database
 
@@ -141,5 +141,5 @@ We have successfully added a new member to the list of passengers.
 
 ###### Conclusion
 
-In this quickstart tutorial we learned how to strategially interact with a database in the Java language through a concrete example.
-I advice you to explore the world of databases and to understand in depth more advanced concepts of data collections.
+In this quickstart tutorial we learned how to strategically interact with a database in the Java language through a concrete example.
+I advise you to explore the world of databases and to understand in depth more advanced concepts of data collections.
