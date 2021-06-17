@@ -4,8 +4,6 @@ Working with JDBC and MySQL | java | 2021-06-16 23:56:14 +1000 | Edoardo Fiorini
 
 ###### Introduction
 
----
-
 The Java Database Connectivity (JDBC) is the standard way of accessing databases in Java. 
 
 This tutorial covers how to instantiate a connection, perform queries, and generally interact with a simulated data collection. The software used here is MySQL, an open source relational database. You should have some knowledge of Java and a basic understanding of databases.
@@ -50,8 +48,6 @@ INSERT INTO `passenger` VALUES (1,'Paul Müller','Berlin, Germany','New York, US
 Please note that to use MySQL in your project your need to add to the build path the MySQL connector JAR, downloadble visiting [This Link](https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar).
 
 ###### Interacting With Database
-
----
 
 ## Step 1: Establishing Database Collection
 
@@ -137,7 +133,5 @@ The last step is using JDBC to insert information to the table. To protect our a
 We have successfully added a new member to the list of passengers.
 
 ###### Conclusion
-
----
 
 In this tutorial we learned how to strategially interact with a database in the Java language through a concrete example.
