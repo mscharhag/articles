@@ -17,6 +17,10 @@ The JDBC Application Programming Interface (API) is composed by 4 main interface
 
 These interfaces help us to execute fundamental procedures regarding databases.
 
+## GitHub Availability
+
+The code of this application is entirely available on GitHub.
+
 ## Initial Setup And Example
 
 For this tutorial we are going to make use a practical example: the monitoring of entrances of an airplane.
