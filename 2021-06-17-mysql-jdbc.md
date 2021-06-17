@@ -79,7 +79,7 @@ public class JDBCExample {
 Remember to change the "databasePassword" variable with your database password.
 
 At this point run the java program and the connection will be established successfully. If you received this error message:
-```java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/mysql``` check that you have written all the connection fields right.
+```java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/fligths``` check that you have written all the connection fields right.
 
 ## Step 2: Executing Query To Retrieve Data
 
