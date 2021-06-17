@@ -137,4 +137,5 @@ We have successfully added a new member to the list of passengers.
 
 ###### Conclusion
 
-In this tutorial we learned how to strategially interact with a database in the Java language through a concrete example.
+In this quickstart tutorial we learned how to strategially interact with a database in the Java language through a concrete example.
+I advice you to explore the world of databases and to understand in depth more advanced concepts of data collections.
