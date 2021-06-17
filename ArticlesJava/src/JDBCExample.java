@@ -6,7 +6,7 @@ public class JDBCExample {
 
 		String databaseUsername = "root";
 
-		String databasePassword = "EdoSocial2007";
+		String databasePassword = "yourPassword";
 
 		Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/flights", databaseUsername,
 				databasePassword);
