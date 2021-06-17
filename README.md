@@ -1,2 +1,2 @@
 # articles
-Technical Articles.
+Technical articles about Java.
